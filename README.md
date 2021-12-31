@@ -1,4 +1,9 @@
 # devops-netology
+*********************************** ДЗ по теме 'Инструменты Git' ***********************************
+
+
+
+****************************************************************************************************
 Hello! It`s my first commit on GitHub :)
 
 [.gitignore] в дирректории
@@ -15,7 +20,6 @@ override.tf
 override.tf.json
 *_override.tf
 *_override.tf.json  - определяет игнорировать файлы override.tf / override.tf.json / [любое_имя]_override.tf / [любое_имя]_override.tf.json
-
 
 .terraformrc
 terraform.rc   - игнор конфигов Терраформ
