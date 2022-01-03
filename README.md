@@ -61,7 +61,17 @@ commit 225466bc3e5f35baa5d07197bbc079345b77525e
     Cleanup after v0.12.23 release
     (команда - git log v0.12.23..v0.12.24)
 
-5)  (git log -S 'func providerSource' --oneline)
+5)  функция func providerSource() создана в - 8c928e83589d90a031f811fae52a81be7153e82f
+    (git log --oneline -G'^func.providerSource\(')
+    
+6)  функция добавлена - 8364383c359a6b738a436d1b7745ccdce178df47
+            изменена: - 66ebff90cdfaa6938f26f908c7ebad8d547fea17
+            изменена: - 41ab0aef7a0fe030e84018973a64135b11abcd70
+            изменена: - 52dbf94834cb970b510f2fba853a5b49ad9b1a46
+            изменена: - 78b12205587fe839f10d946ea3fdc06719decb05
+    (git log -L:globalPluginDirs:plugins.go)
+    
+7)  
 
 
 
