@@ -71,8 +71,10 @@ commit 225466bc3e5f35baa5d07197bbc079345b77525e
             изменена: - 78b12205587fe839f10d946ea3fdc06719decb05
     (git log -L:globalPluginDirs:plugins.go)
     
-7)  
-
+7)  commit 5ac311e2a91e381e2f52234668b49ba670aa0fe5
+    Author: Martin Atkins <mart@degeneration.co.uk>
+    Date:   Wed May 3 16:25:41 2017 -0700
+    (git log --all -S"synchronizedWriters") и (git show 5ac311e2a)
 
 
 ****************************************************************************************************
