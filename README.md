@@ -2,7 +2,7 @@
 
 # ДЗ "3.1. Работа в терминале, лекция 1"
 
-1)  sudo apt install virtualbox  
+1)  - - - - - - - - - - -  
 ***
 2)  sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com DA418C88A3219F7B  
     sudo apt-add-repository "deb [arch=amd64] https://apt.releases.hashicorp.com $(lsb_release -cs) main"  
