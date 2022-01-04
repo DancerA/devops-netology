@@ -23,5 +23,5 @@
      >   A `Vagrantfile` has been placed in this directory. You are now  
      >   ready to `vagrant up` your first virtual environment!  
 ***       
-5)  [![Vagrantfile change](./media/vagr_conf_1.jpg)]  
+5)  ![Vagrantfile change](./media/vagr_conf_1.jpg)  
 
