@@ -22,6 +22,7 @@
     $ vagrant init hashicorp/bionic64  
      >   A `Vagrantfile` has been placed in this directory. You are now  
      >   ready to `vagrant up` your first virtual environment!  
-***       
-5)  ![Vagrantfile change](./media/vagr_conf_1.jpg)  
+      
+    ![](./media/vagr_conf_1.jpg)![image](https://user-images.githubusercontent.com/26094445/148123187-9912adc7-182a-45cf-9316-12c129427c6f.png)
+
 
