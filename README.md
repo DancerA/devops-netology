@@ -23,4 +23,4 @@
      >   A `Vagrantfile` has been placed in this directory. You are now  
      >   ready to `vagrant up` your first virtual environment!  
         
-5)  ![](//https://prnt.sc/25zz775)
+5)  ![](//prnt.sc/25zz775)
