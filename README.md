@@ -23,6 +23,6 @@
      >   A `Vagrantfile` has been placed in this directory. You are now  
      >   ready to `vagrant up` your first virtual environment!  
       
-    ![](./media/vagr_conf_1.jpg)![image](https://user-images.githubusercontent.com/26094445/148123187-9912adc7-182a-45cf-9316-12c129427c6f.png)
+    ![image1](./media/vagr_conf_1.jpg) ![image2](./media/vagrant_up_hyperv.jpg)
 
 
