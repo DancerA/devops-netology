@@ -26,3 +26,4 @@
     ![image1](./media/vagr_conf_1.jpg) ![image2](./media/vagrant_up_hyperv.jpg)
 
 
+5)  ![image3](./media/vagrant_hyperv_settings.jpg)
