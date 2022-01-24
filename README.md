@@ -9,8 +9,8 @@
 ***   
 3)  Использую Linux Ubuntu  
 ***  
-4)  mkdir vagrant_folder  
-    $ cd vagrant_folder/  
+4)  mkdir vagrant_storage  
+    $ cd vagrant_storage/  
     $ vagrant init  
            
     ![image1](./media/2_vagrant_up.jpg) ![image2](./media/3_vagrant_global_status.jpg)  
