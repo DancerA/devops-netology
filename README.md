@@ -30,7 +30,7 @@
     HISTFILESIZE — максимальное количество строк, содержащееся в файле истории.  
         *The shell sets the default value to 500 after reading any startup files. (Manual page bash(1) line 641/3452)*  
     ignoreboth - объединяет 2 комманды:  
-        >   ignorespace - не сохранять строки начинающиеся с пробельного символа
+        >   ignorespace - не сохранять строки начинающиеся с пробельного символа  
         >   ignoredups  - не сохраняет совпадающие с последней выполненной командой строки  
 
-
+9)  
