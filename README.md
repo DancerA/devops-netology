@@ -50,7 +50,7 @@
         [[ -d /tmp ]] - проверка наличия каталога "tmp"  
 
 
-12) ...
+12) ![image7](./media/7_bash__add_value_PATH.jpg)  
 
 
 13) ...
