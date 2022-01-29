@@ -33,4 +33,22 @@
         >   ignorespace - не сохранять строки начинающиеся с пробельного символа  
         >   ignoredups  - не сохраняет совпадающие с последней выполненной командой строки  
 
-9)  
+9)  {} - зарезервированные слова, список команд, простой список.  
+            { list; }   -   Manual page bash(1) line 207/3461 6%  
+        
+            That command is usually a list of commands between { and }, but may be any command listed under... - Manual page bash(1) line 312/3461 10%  
+            
+10) ...
+
+
+11) ...
+
+
+12) ...
+
+
+13) ...
+
+
+14) ...
+
