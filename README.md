@@ -41,10 +41,10 @@
 10) $ touch {1..100000} - создаст 100000 файлов txt  
     $ touch {1..300000}   >   -bash: /usr/bin/touch: Argument list too long  
     
-        $ echo {1..300000}.txt | xargs touch  >   а так создаёт  
-        ![image6](./media/6_echo_xargs_more_300K.jpg)  
+        $ echo {1..300000}.txt | xargs touch  >   а так создаёт          
+        $ echo {1..300000}.txt | xargs rm  -  так удаляем  
         
-        echo {1..300000}.txt | xargs rm  -  так удаляем  
+        ![image6](./media/6_echo_xargs_more_300K.jpg)
   
 11)     Возвращает 0 или 1 (Return a status of 0 or 1 depending on the evaluation of the conditional expression) -  Manual page bash(1) line 216/3461 7%  
         [[ -d /tmp ]] - проверка наличия каталога "tmp"  
