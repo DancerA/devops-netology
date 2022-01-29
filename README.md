@@ -34,15 +34,16 @@
         >   ignoredups  - не сохраняет совпадающие с последней выполненной командой строки  
 
 9)  {} - зарезервированные слова, список команд, простой список.  
-            { list; }   -   Manual page bash(1) line 207/3461 6%    
+            { list; }   -   Manual page bash(1) line 207/3461 6%  
+            
             That command is usually a list of commands between { and }, but may be any command listed under... - Manual page bash(1) line 312/3461 10%  
             
 10) $ touch {1..100000} - создаст 100000 файлов txt  
     $ touch {1..300000}   >   -bash: /usr/bin/touch: Argument list too long  
     $ echo {1..300000}.txt  >   а так создаёт  
         ![image6](./media/6_echo_300000.jpg)
-
-11) Возвращает 0 или 1 (Return a status of 0 or 1 depending on the evaluation of the conditional expression) -  Manual page bash(1) line 216/3461 7%  
+  
+11)     Возвращает 0 или 1 (Return a status of 0 or 1 depending on the evaluation of the conditional expression) -  Manual page bash(1) line 216/3461 7%  
         [[ -d /tmp ]] - проверка наличия каталога "tmp"  
 
 
