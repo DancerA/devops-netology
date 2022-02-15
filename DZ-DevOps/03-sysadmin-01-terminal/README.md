@@ -1,6 +1,6 @@
-# devops-netology
+# DevOps-Netology
 
-# ДЗ "3.1. Работа в терминале, лекция 1"
+## ДЗ "3.1. Работа в терминале, лекция 1"
 
 1)  $ sudo apt-get install virtualbox  
 ***  
