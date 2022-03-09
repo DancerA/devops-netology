@@ -9,7 +9,8 @@
 2.  #   
 
 
-3.  ![image3](./media/3_PID_proc_#1.jpg)  
+3.  Это процесс - systemd(1)    
+    ![image7](./media/3_PID(1).jpg)  
 
 
 4.  #   
