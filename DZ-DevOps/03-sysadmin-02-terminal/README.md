@@ -22,6 +22,8 @@
 9.  #  
 10. #  
 11. #  
+    cat /proc/cpuinfo | egrep "(sse)"  
+    ![image11](./media/11_sse_proc.jpg) 
 12. #  
 13. #  
 14. #  
