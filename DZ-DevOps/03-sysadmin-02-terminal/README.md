@@ -22,6 +22,7 @@
 9.  #  
 10. #  
 11. #  
+    Ответ - SSE 4.2  
     cat /proc/cpuinfo | egrep "(sse)"  
     ![image11](./media/11_sse_proc.jpg) 
 12. #  
