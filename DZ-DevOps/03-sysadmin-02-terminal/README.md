@@ -22,8 +22,8 @@
     ![image5](./media/5_stdin_stdout_exam1.jpg)  
 6.  #  
 7.  #  
-    если вы выполнить :~$ echo netology > /proc/$$/fd/5  - вернёт ошибку "-bash: /proc/43924/fd/5: No such file or directory"  
-    после выполнения  :~$ bash 5>&1 - отобразит echo вывод, поскольку будет создан дескриптор '5' и направит его в stdout  
+    если вы выполнить :~$ echo netology '>' /proc/$$/fd/5  - вернёт ошибку "-bash: /proc/43924/fd/5: No such file or directory"  
+    после выполнения  :~$ 'bash 5>&1' - отобразит echo вывод, поскольку будет создан дескриптор '5' и направит его в stdout  
     ![image7](./media/7_stdout.jpg)  
 8.  #  
 9.  #  
