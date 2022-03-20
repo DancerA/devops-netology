@@ -15,7 +15,9 @@
     ![image2](./media/3_PID(1).jpg)  
 
 4.  #   
-    :~$ ls -l \root 2>/dev/pts/1  
+    :~$ ls -l \root 2>/dev/pts/2  
+      
+    ![image4](./media/4_ls_out_other_session.jpg)
 5.  #  
     ![image5](./media/5_stdin_stdout_exam1.jpg)  
 6.  #  
