@@ -15,6 +15,7 @@
     ![image2](./media/3_PID(1).jpg)  
 
 4.  #   
+    vagrant@vagrant:~$ ls -l \root 2>/dev/pts/1  
 5.  #  
 6.  #  
 7.  #  
